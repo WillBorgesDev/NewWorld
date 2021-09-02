@@ -1,0 +1,2 @@
+Helena - Você encontrou uma das capsulas de teletransporte!
+Helena - Caso você seja danificado será reparado e teletransportado para a ultima capsula desta que você encontrou.

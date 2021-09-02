@@ -1,0 +1,9 @@
+Helena - Seja bem vindo Hope! Meu nome é Helena e eu o criei.
+Hope - Olá doutora Helena, no que posso ser útil para a senhora?
+Helena - Estamos com um projeto de pesquisa para a colonização do planeta Kepler-186f, onde ja foram enviadas capsulas de teletransporte como esta que esta aqui no laboratorio.
+Helena - Você foi criado porque precisamos que você viaje através desta capsula para o planeta, para pesquisar se esse planeta é realmente habitavel para nós humanos.
+Hope - Farei o meu melhor.
+Helena - Coloquei em sua memória alguns dados que temos do planeta. Consegue localiza-los?
+Hope - Sim, tudo funionando corretamente.
+Helena - Que ótimo! Vamos, estou ansiosa para ve-lo em ação.
+Helena - Vou lhe mostrar como usar a capsula
